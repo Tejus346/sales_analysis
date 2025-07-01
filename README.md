@@ -56,7 +56,7 @@ Excel Charts (Bar, Doughnut, KPI Cards)
 📷 Screenshots
 Dashboard Overview	Category-wise Analysis
 
-
+https://github.com/Tejus346/sales_analysis/blob/main/ss.png
 
 📂 How to Use
 Download the Excel file (Profit_Sales_Dashboard.xlsx) from this repository.
